@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_e7d049b6ff38a1ce724f370113d15b399f2a3bd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_b7f56574d646ffdcf1e73989ccf59b81fdbbf04e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_b40adcf530a95add4a6cd7499c202b82000afbb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_646954b31c7b0f993729a7ab1cd6c40e264b5be5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_206113fc692b321253c8337a408a06654dd3e0e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_11f8deaf2ad256dd2eb578c3d4cbc515132fb746.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_008493846abb37861b7fb407ecc921ae06b47255.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_e7d049b6ff38a1ce724f370113d15b399f2a3bd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_37d96079cdd847a06eaacb02dee35c84acc1155a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_646954b31c7b0f993729a7ab1cd6c40e264b5be5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_206113fc692b321253c8337a408a06654dd3e0e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_51aa2b14624a8a42a9cbf011356f41a020af001a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_d7c45ccb8e25d7c726822baf9afa44cba97f6d7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_981a07e57c1241f15dc69bb0601eebe77dadbf79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_981a07e57c1241f15dc69bb0601eebe77dadbf79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_51aa2b14624a8a42a9cbf011356f41a020af001a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_2fbfd4278cf9934a64fcac8e85113f9d1f09dbf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_af877799b388c201cd4c37fff8261915b1f3bf23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_4119004e6ab09592c89ecbdd6746caf19269d1c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_d7c45ccb8e25d7c726822baf9afa44cba97f6d7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_37d96079cdd847a06eaacb02dee35c84acc1155a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_2fbfd4278cf9934a64fcac8e85113f9d1f09dbf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_af877799b388c201cd4c37fff8261915b1f3bf23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_4119004e6ab09592c89ecbdd6746caf19269d1c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_953a4a169156299bdb2ed3be7c814b65e8314890.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_008493846abb37861b7fb407ecc921ae06b47255.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_5995e62f9594345b8711623b5b119d35790d250e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_873a8540dd31b670c97da4b457d40e25e599e64f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_c6449bfe4af2783f36a35ca191f5cba2aa28140a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_11f8deaf2ad256dd2eb578c3d4cbc515132fb746.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_38f886427c7718fdf6c27f3d053f6108377768da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_38f886427c7718fdf6c27f3d053f6108377768da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_953a4a169156299bdb2ed3be7c814b65e8314890.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_5995e62f9594345b8711623b5b119d35790d250e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_873a8540dd31b670c97da4b457d40e25e599e64f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_b7f56574d646ffdcf1e73989ccf59b81fdbbf04e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_c6449bfe4af2783f36a35ca191f5cba2aa28140a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qifeng\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Qifeng\AndroidStudioProjects\TD-app part\TD\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_b40adcf530a95add4a6cd7499c202b82000afbb0.jar" />
+    </item>
+
+</items>
